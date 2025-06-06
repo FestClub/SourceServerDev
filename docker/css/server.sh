@@ -288,6 +288,7 @@ start() {
                 -console \
                 +ip 0.0.0.0 \
                 -port "$SERVER_PORT" \
+                -clientport "$SERVER_PORT" \
                 +maxplayers "$MAX_PLAYERS" \
                 $additionalParams
         else
@@ -296,6 +297,7 @@ start() {
                 -console \
                 +ip 0.0.0.0 \
                 -port "$SERVER_PORT" \
+                -clientport "$SERVER_PORT" \
                 +maxplayers "$MAX_PLAYERS" \
                 $additionalParams
         fi

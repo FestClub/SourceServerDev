@@ -1,32 +1,34 @@
 ## SourceServerDev
-![Status](https://img.shields.io/badge/status-In_Process-gren.png)
-![Bug](https://img.shields.io/badge/Bugs-0-red.png)
-![Updates](https://img.shields.io/badge/Updates-8-gren.png)
-![Releases](https://img.shields.io/github/v/release/ViniciusRed/SourceServerDev?color=gren&display_name=tag)
-![Download](https://img.shields.io/github/downloads/ViniciusRed/SourceServerDev/total)
-___
-### State of Build
 <div align="center">
 
-```CSS
-[Docker(css)] = [Working]
-[Docker(csso)] = [In Wait]
-[Docker(clientmod)] = [In Wait]
-[Launcher] = [In Wait]
-[Install Server] = [Working only linux]
-[CsSoMod] = [In Wait]
-[MetaMod CsSo] = [In Wait]
+![Status](https://img.shields.io/badge/status-In_Development-green.svg)
+![Bugs](https://img.shields.io/badge/Bugs-0-brightgreen.svg)
+![Updates](https://img.shields.io/badge/Updates-8-blue.svg)
+
+### Project Status
+
 ```
-___
+Component          | Status
+------------------|------------------------
+Docker (CSS)      | ✅ Working
+Docker (CSSO)     | ⏳ Pending
+Docker (ClientMod)| ⏳ Pending
+Launcher          | ⏳ Pending
+Install Server    | ✅ Working (Linux Only)
+CSSO Mod          | ⏳ Pending
+MetaMod CSSO      | ⏳ Pending
+```
+
 ### About
-This project was created to improve the server that uses SourceEngine
-___
-Example:
-<div align="center">
+A project focused on enhancing and improving Source Engine server functionality and performance.
 
-```CSS
-[Plugins]
-[Server_Config]
-[Or Code Improvements]
+### Features
+
 ```
-<div/>
+• Custom Server Plugins
+• Advanced Server Configurations
+• Source Engine Code Optimizations
+• Performance Improvements
+• Security Enhancements
+```
+</div>
